@@ -1,14 +1,26 @@
-layout_spectrum: 0.3948921
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 1
 color:
   saturation: 0.1311974
   brandStrength: 0.7771545
-  lightness: 0.9453949
+  rhythmicContrast: 0.6578813
   brandColors:
     - '#0C0C0E'
     - '#91ACCF'
     - '#777888'
     - '#F0F1F3'
     - '#855143'
-  rhythmicContrast: 0.6578813
+  lightness: 0.9453949
+layout_spectrum: 1
 name: Greenemusic
