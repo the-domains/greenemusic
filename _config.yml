@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Ron Greene music official website
+title: Ron Greene Music website
 cta:
   domain: null
   bucket: null
